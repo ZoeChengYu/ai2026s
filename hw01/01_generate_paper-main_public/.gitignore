@@ -1,0 +1,26 @@
+# -- 系統與環境 --
+__pycache__
+
+# -- 暫存與記錄檔 --
+character.txt
+標點符號.txt
+*copy.txt
+character_history_copy.txt
+
+# -- 輸出 --
+CP950/
+千字文/
+長恨歌/
+洛神賦/
+詩經/
+部首、注音、日文/
+英文、數字/
+標點符號/
+姓氏名字號/
+manuscripts-final/
+
+# -- 個人項目 --
+114598033*
+
+.vscode/settings.json
+.idea/workspace.xml
