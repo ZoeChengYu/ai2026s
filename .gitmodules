@@ -1,3 +1,12 @@
 [submodule "hw01/01_generate_paper-main"]
 	path = hw01/01_generate_paper-main
 	url = https://github.com/ZoeChengYu/01_generate_paper
+[submodule "hw02/02-1_crop_paper"]
+	path = hw02/02-1_crop_paper
+	url = https://github.com/ZoeChengYu/02-1_crop_paper
+[submodule "hw02/02-2_glyph_vector"]
+	path = hw02/02-2_glyph_vector
+	url = https://github.com/ZoeChengYu/02-2_glyph_vector
+[submodule "hw02/02-3_font_packager"]
+	path = hw02/02-3_font_packager
+	url = https://github.com/ZoeChengYu/02-3_font_packager
