@@ -1,5 +1,8 @@
 [submodule "hw01/01_generate_paper-main"]
 	path = hw01/01_generate_paper-main
+	url = https://github.com/ZoeChengYu/01_generate_paper_self
+[submodule "hw01/01_generate_paper-main_public"]
+	path = hw01/01_generate_paper-main_public
 	url = https://github.com/ZoeChengYu/01_generate_paper
 [submodule "hw02/02-1_crop_paper"]
 	path = hw02/02-1_crop_paper
