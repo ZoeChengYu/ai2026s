@@ -1,0 +1,476 @@
+{
+  "CP950": [
+    {
+      "Character": "氫",
+      "UNICODE": "0x6C2B"
+    },
+    {
+      "Character": "氦",
+      "UNICODE": "0x6C26"
+    },
+    {
+      "Character": "鋰",
+      "UNICODE": "0x92F0"
+    },
+    {
+      "Character": "鈹",
+      "UNICODE": "0x9239"
+    },
+    {
+      "Character": "硼",
+      "UNICODE": "0x787C"
+    },
+    {
+      "Character": "碳",
+      "UNICODE": "0x78B3"
+    },
+    {
+      "Character": "氮",
+      "UNICODE": "0x6C2E"
+    },
+    {
+      "Character": "氧",
+      "UNICODE": "0x6C27"
+    },
+    {
+      "Character": "氟",
+      "UNICODE": "0x6C1F"
+    },
+    {
+      "Character": "氖",
+      "UNICODE": "0x6C16"
+    },
+    {
+      "Character": "鈉",
+      "UNICODE": "0x9209"
+    },
+    {
+      "Character": "鎂",
+      "UNICODE": "0x9382"
+    },
+    {
+      "Character": "鋁",
+      "UNICODE": "0x92C1"
+    },
+    {
+      "Character": "矽",
+      "UNICODE": "0x77FD"
+    },
+    {
+      "Character": "磷",
+      "UNICODE": "0x78F7"
+    },
+    {
+      "Character": "硫",
+      "UNICODE": "0x786B"
+    },
+    {
+      "Character": "氯",
+      "UNICODE": "0x6C2F"
+    },
+    {
+      "Character": "氬",
+      "UNICODE": "0x6C2C"
+    },
+    {
+      "Character": "鉀",
+      "UNICODE": "0x9240"
+    },
+    {
+      "Character": "鈣",
+      "UNICODE": "0x9223"
+    },
+    {
+      "Character": "鈧",
+      "UNICODE": "0x9227"
+    },
+    {
+      "Character": "鈦",
+      "UNICODE": "0x9226"
+    },
+    {
+      "Character": "釩",
+      "UNICODE": "0x91E9"
+    },
+    {
+      "Character": "鉻",
+      "UNICODE": "0x927B"
+    },
+    {
+      "Character": "錳",
+      "UNICODE": "0x9333"
+    },
+    {
+      "Character": "鐵",
+      "UNICODE": "0x9435"
+    },
+    {
+      "Character": "鈷",
+      "UNICODE": "0x9237"
+    },
+    {
+      "Character": "鎳",
+      "UNICODE": "0x93B3"
+    },
+    {
+      "Character": "銅",
+      "UNICODE": "0x9285"
+    },
+    {
+      "Character": "鋅",
+      "UNICODE": "0x92C5"
+    },
+    {
+      "Character": "鎵",
+      "UNICODE": "0x93B5"
+    },
+    {
+      "Character": "鍺",
+      "UNICODE": "0x937A"
+    },
+    {
+      "Character": "砷",
+      "UNICODE": "0x7837"
+    },
+    {
+      "Character": "硒",
+      "UNICODE": "0x7852"
+    },
+    {
+      "Character": "溴",
+      "UNICODE": "0x6EB4"
+    },
+    {
+      "Character": "氪",
+      "UNICODE": "0x6C2A"
+    },
+    {
+      "Character": "銣",
+      "UNICODE": "0x92A3"
+    },
+    {
+      "Character": "鍶",
+      "UNICODE": "0x9376"
+    },
+    {
+      "Character": "釔",
+      "UNICODE": "0x91D4"
+    },
+    {
+      "Character": "鋯",
+      "UNICODE": "0x92EF"
+    },
+    {
+      "Character": "鈮",
+      "UNICODE": "0x922E"
+    },
+    {
+      "Character": "鉬",
+      "UNICODE": "0x926C"
+    },
+    {
+      "Character": "鎝",
+      "UNICODE": "0x939D"
+    },
+    {
+      "Character": "釕",
+      "UNICODE": "0x91D5"
+    },
+    {
+      "Character": "銠",
+      "UNICODE": "0x92A0"
+    },
+    {
+      "Character": "鈀",
+      "UNICODE": "0x9200"
+    },
+    {
+      "Character": "銀",
+      "UNICODE": "0x9280"
+    },
+    {
+      "Character": "鎘",
+      "UNICODE": "0x9398"
+    },
+    {
+      "Character": "銦",
+      "UNICODE": "0x92A6"
+    },
+    {
+      "Character": "錫",
+      "UNICODE": "0x932B"
+    },
+    {
+      "Character": "銻",
+      "UNICODE": "0x92BB"
+    },
+    {
+      "Character": "碲",
+      "UNICODE": "0x78B2"
+    },
+    {
+      "Character": "碘",
+      "UNICODE": "0x7898"
+    },
+    {
+      "Character": "氙",
+      "UNICODE": "0x6C19"
+    },
+    {
+      "Character": "銫",
+      "UNICODE": "0x92AB"
+    },
+    {
+      "Character": "鋇",
+      "UNICODE": "0x92C7"
+    },
+    {
+      "Character": "鑭",
+      "UNICODE": "0x946D"
+    },
+    {
+      "Character": "鈰",
+      "UNICODE": "0x9230"
+    },
+    {
+      "Character": "鐠",
+      "UNICODE": "0x9420"
+    },
+    {
+      "Character": "釹",
+      "UNICODE": "0x91F9"
+    },
+    {
+      "Character": "鉕",
+      "UNICODE": "0x9255"
+    },
+    {
+      "Character": "釤",
+      "UNICODE": "0x91E4"
+    },
+    {
+      "Character": "銪",
+      "UNICODE": "0x92AA"
+    },
+    {
+      "Character": "釓",
+      "UNICODE": "0x91D3"
+    },
+    {
+      "Character": "鋱",
+      "UNICODE": "0x92F1"
+    },
+    {
+      "Character": "鏑",
+      "UNICODE": "0x93D1"
+    },
+    {
+      "Character": "鈥",
+      "UNICODE": "0x9225"
+    },
+    {
+      "Character": "鉺",
+      "UNICODE": "0x927A"
+    },
+    {
+      "Character": "銩",
+      "UNICODE": "0x92A9"
+    },
+    {
+      "Character": "鐿",
+      "UNICODE": "0x943F"
+    },
+    {
+      "Character": "鎦",
+      "UNICODE": "0x93A6"
+    },
+    {
+      "Character": "鉿",
+      "UNICODE": "0x927F"
+    },
+    {
+      "Character": "鉭",
+      "UNICODE": "0x926D"
+    },
+    {
+      "Character": "鎢",
+      "UNICODE": "0x93A2"
+    },
+    {
+      "Character": "錸",
+      "UNICODE": "0x9338"
+    },
+    {
+      "Character": "鋨",
+      "UNICODE": "0x92E8"
+    },
+    {
+      "Character": "銥",
+      "UNICODE": "0x92A5"
+    },
+    {
+      "Character": "鉑",
+      "UNICODE": "0x9251"
+    },
+    {
+      "Character": "金",
+      "UNICODE": "0x91D1"
+    },
+    {
+      "Character": "汞",
+      "UNICODE": "0x6C5E"
+    },
+    {
+      "Character": "鉈",
+      "UNICODE": "0x9248"
+    },
+    {
+      "Character": "鉛",
+      "UNICODE": "0x925B"
+    },
+    {
+      "Character": "鉍",
+      "UNICODE": "0x924D"
+    },
+    {
+      "Character": "釙",
+      "UNICODE": "0x91D9"
+    },
+    {
+      "Character": "砈",
+      "UNICODE": "0x7808"
+    },
+    {
+      "Character": "氡",
+      "UNICODE": "0x6C21"
+    },
+    {
+      "Character": "鍅",
+      "UNICODE": "0x9345"
+    },
+    {
+      "Character": "鐳",
+      "UNICODE": "0x9433"
+    },
+    {
+      "Character": "錒",
+      "UNICODE": "0x9312"
+    },
+    {
+      "Character": "釷",
+      "UNICODE": "0x91F7"
+    },
+    {
+      "Character": "鏷",
+      "UNICODE": "0x93F7"
+    },
+    {
+      "Character": "鈾",
+      "UNICODE": "0x923E"
+    },
+    {
+      "Character": "錼",
+      "UNICODE": "0x933C"
+    },
+    {
+      "Character": "鈽",
+      "UNICODE": "0x923D"
+    },
+    {
+      "Character": "鋂",
+      "UNICODE": "0x92C2"
+    },
+    {
+      "Character": "鋦",
+      "UNICODE": "0x92E6"
+    },
+    {
+      "Character": "鉳",
+      "UNICODE": "0x9273"
+    },
+    {
+      "Character": "鉲",
+      "UNICODE": "0x9272"
+    },
+    {
+      "Character": "鑀",
+      "UNICODE": "0x9440"
+    },
+    {
+      "Character": "鐨",
+      "UNICODE": "0x9428"
+    },
+    {
+      "Character": "鍆",
+      "UNICODE": "0x9346"
+    },
+    {
+      "Character": "鍩",
+      "UNICODE": "0x9369"
+    },
+    {
+      "Character": "鐒",
+      "UNICODE": "0x9412"
+    },
+    {
+      "Character": "鑪",
+      "UNICODE": "0x946A"
+    },
+    {
+      "Character": "𨧀",
+      "UNICODE": "0x289C0"
+    },
+    {
+      "Character": "𨭎",
+      "UNICODE": "0x28B4E"
+    },
+    {
+      "Character": "𨨏",
+      "UNICODE": "0x28A0F"
+    },
+    {
+      "Character": "𨭆",
+      "UNICODE": "0x28B46"
+    },
+    {
+      "Character": "䥑",
+      "UNICODE": "0x4951"
+    },
+    {
+      "Character": "鐽",
+      "UNICODE": "0x943D"
+    },
+    {
+      "Character": "錀",
+      "UNICODE": "0x9300"
+    },
+    {
+      "Character": "鎶",
+      "UNICODE": "0x93B6"
+    },
+    {
+      "Character": "鉨",
+      "UNICODE": "0x9268"
+    },
+    {
+      "Character": "鈇",
+      "UNICODE": "0x9207"
+    },
+    {
+      "Character": "鏌",
+      "UNICODE": "0x93CC"
+    },
+    {
+      "Character": "鉝",
+      "UNICODE": "0x925D"
+    },
+    {
+      "Character": "鿬",
+      "UNICODE": "0x9FEC"
+    },
+    {
+      "Character": "鿫",
+      "UNICODE": "0x9FEB"
+    }
+  ]
+}
