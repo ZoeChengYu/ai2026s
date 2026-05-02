@@ -1,18 +1,24 @@
 [submodule "hw01/01_generate_paper-main"]
-	path = hw01/01_generate_paper-main
-	url = https://github.com/ZoeChengYu/01_generate_paper_self
+    path = hw01/01_generate_paper-main
+    url = https://github.com/ZoeChengYu/01_generate_paper_self
+    branch = main
 [submodule "hw01/01_generate_paper-main_public"]
 	path = hw01/01_generate_paper-main_public
 	url = https://github.com/ZoeChengYu/01_generate_paper
+	branch = main
 [submodule "hw02/02-1_crop_paper"]
 	path = hw02/02-1_crop_paper
 	url = https://github.com/ZoeChengYu/02-1_crop_paper
+	branch = main
 [submodule "hw02/02-2_glyph_vector"]
 	path = hw02/02-2_glyph_vector
 	url = https://github.com/ZoeChengYu/02-2_glyph_vector
+	branch = main
 [submodule "hw02/02-3_font_packager"]
 	path = hw02/02-3_font_packager
 	url = https://github.com/ZoeChengYu/02-3_font_packager
+	branch = main
 [submodule "hw03/Fooo"]
     path = hw03/Fooo
     url = https://github.com/ZoeChengYu/ai2026_product3
+	branch = main
