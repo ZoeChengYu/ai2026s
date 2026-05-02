@@ -13,3 +13,6 @@
 [submodule "hw02/02-3_font_packager"]
 	path = hw02/02-3_font_packager
 	url = https://github.com/ZoeChengYu/02-3_font_packager
+[submodule "hw03/Fooo"]
+    path = hw03/Fooo
+    url = https://github.com/ZoeChengYu/ai2026_product3
