@@ -35,6 +35,11 @@
     src: url(https://lctung.github.io/ai2026s/hw03/noto114598033.woff2); 
   }
 
+  @font-face {
+    font-family:'NOTO_113590051';
+    src: url(https://zoechengyu.github.io/ai2026s/hw03/NOTO_113590051.woff2); 
+  }
+
   table {
       border-collapse: collapse;
       border: 2px solid white; /* rgba(217,140,144,1) */
@@ -99,7 +104,7 @@
   }
 
   p{
-    font-family:'noto114598033', 'LXGW WenKai Mono TC';
+    font-family:'noto114598033', 'LXGW WenKai Mono TC','NOTO_113590051';
   }
 
   .container-fluid {
@@ -168,7 +173,7 @@
   <!-- ------------------------------------------------>
   <div class="row hw12">
     <div class="col-md-12 twenty">
-      透過 FontDiffuser 的幫忙後，字體包的製程時間大幅下降可以完成教育部常用字體的字體包，比起我們手寫4000多字的時間成本，已經大幅下修非常多，看著我很痠的手，真是非常感動。因為 colab 流量限制關係，如果要一次完成完整的字體包，需要改用 local 端來做 infer，因為 colab 對 GPU 有流量限制，無法讓我們一次跑完2萬字的訓練，但也沒關係，已經感受到生成式AI這個領域的樂趣了！也漸漸理解這個專案的醍醐味了。
+      透過 FontDiffuser 的幫忙後，字體包的製程時間大幅下降可以完成教育部常用字體的字體包，比起我們手寫4000多字的時間成本，已經大幅下修非常多，看著我很痠的手，真是非常感動。因為 colab 流量限制關係，如果要短時間內完成完整的字體包，需要使用多個Google帳號來做生成字體，因為 colab 對 GPU 有流量限制，無法讓我們一次跑完2萬字的訓練，但也沒關係，已經感受到生成式AI這個領域的樂趣了！也漸漸理解這個專案的醍醐味了。
     </div>
   </div>
 
@@ -224,7 +229,7 @@
     <div class="col-md-12 twenty">
       <span>教育部常用字字體包位置連結：授權至SIL開源字型</span>
       <br>
-      <button type="button" onclick="location.href='https://github.com/lctung/ai2026s/blob/main/hw03/MOE114598033.ttf'">
+      <button type="button" onclick="location.href='https://github.com/ZoeChengYu/ai2026s/blob/main/hw03/MOE_1135590051.ttf'">
         前往查看字型
       </button>
       <div>(p.s 請記得修改網址)</div>
@@ -235,7 +240,7 @@
     <div class="col-md-12 twenty">
       <span>NotoSans 字體包位置連結：授權至SIL開源字型</span>
       <br>
-      <button type="button" onclick="location.href='https://github.com/lctung/ai2026s/blob/main/hw03/noto114598033.ttf'">
+      <button type="button" onclick="location.href='https://github.com/ZoeChengYu/ai2026s/blob/main/hw03/NOTO_113590051.ttf'">
         前往查看字型
       </button>
       <div>(p.s 請記得修改網址)</div>
