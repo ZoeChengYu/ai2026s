@@ -18,10 +18,6 @@
 	path = hw02/02-3_font_packager
 	url = https://github.com/ZoeChengYu/02-3_font_packager
 	branch = main
-[submodule "hw03/Fooo"]
-    path = hw03/Fooo
-    url = https://github.com/ZoeChengYu/ai2026_product3
-	branch = main
 [submodule "hw04/compare-similarity"]
     path = hw04/compare-similarity
     url = https://github.com/ZoeChengYu/compare-similarity
