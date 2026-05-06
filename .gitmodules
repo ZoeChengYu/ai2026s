@@ -22,3 +22,7 @@
     path = hw03/Fooo
     url = https://github.com/ZoeChengYu/ai2026_product3
 	branch = main
+[submodule "hw04\compare-similarity"]
+    path = hw04\compare-similarity
+    url = https://github.com/ZoeChengYu/compare-similarity
+	branch = main
