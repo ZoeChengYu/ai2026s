@@ -345,7 +345,7 @@
     d3.select("#myTotal").html(score);    
   }
 
-  // 字體顏色著色：依字體順序偵測每個字元由哪個字體渲染
+  // 字體顏色著色：用 Canvas 像素比對法偵測每個字元實際由哪個字體渲染
   const fontOrder = [
     { name: 'Font_113590051', cssClass: 'font-color-Font' },
     { name: 'MOE_113590051',  cssClass: 'font-color-MOE'  },
@@ -353,19 +353,46 @@
     { name: 'NOTO_113590051', cssClass: 'font-color-NOTO' },
   ];
 
+  // Canvas 比對：渲染字元，回傳像素資料字串
+  const _canvas = document.createElement('canvas');
+  _canvas.width = 40;
+  _canvas.height = 40;
+  const _ctx = _canvas.getContext('2d');
+
+  function getPixels(ch, fontSpec) {
+    _ctx.clearRect(0, 0, 40, 40);
+    _ctx.font = fontSpec;
+    _ctx.fillStyle = '#000';
+    _ctx.fillText(ch, 4, 28);
+    return _ctx.getImageData(0, 0, 40, 40).data.toString();
+  }
+
+  // 取得「不存在字體」的 fallback 渲染作為基準
+  function getFallbackPixels(ch) {
+    return getPixels(ch, '20px "___NoSuchFont___", monospace');
+  }
+
+  function detectFont(ch) {
+    // 空白/控制字元直接跳過
+    if (ch.trim() === '') return '';
+    const fallback = getFallbackPixels(ch);
+    for (const f of fontOrder) {
+      // 用目標字體渲染，後接 monospace 作 fallback
+      const withFont = getPixels(ch, '20px "' + f.name + '", monospace');
+      if (withFont !== fallback) {
+        return f.cssClass;
+      }
+    }
+    return '';
+  }
+
   function colorizeByFont(pEl) {
     const text = pEl.textContent;
     let html = '';
     for (const ch of text) {
-      let assignedClass = '';
-      for (const f of fontOrder) {
-        if (document.fonts.check('16px "' + f.name + '"', ch)) {
-          assignedClass = f.cssClass;
-          break;
-        }
-      }
-      if (assignedClass) {
-        html += '<span class="' + assignedClass + '">' + ch + '</span>';
+      const cssClass = detectFont(ch);
+      if (cssClass) {
+        html += '<span class="' + cssClass + '">' + ch + '</span>';
       } else {
         html += ch;
       }
