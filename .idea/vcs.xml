@@ -2,5 +2,13 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hw01/01_generate_paper-main" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hw01/01_generate_paper-main_public" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hw02/02-1_crop_paper" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hw02/02-2_glyph_vector" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hw02/02-3_font_packager" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hw03/Fontdata" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hw04/compare-similarity" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hw05/text-to-image" vcs="Git" />
   </component>
 </project>
