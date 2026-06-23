@@ -22,3 +22,9 @@
     path = hw04/compare-similarity
     url = https://github.com/ZoeChengYu/compare-similarity
 	branch = main
+
+[submodule "hw05/text-to-image"]
+	path = hw05/text-to-image
+	url = https://github.com/ZoeChengYu/text-to-image
+	branch = main
+
